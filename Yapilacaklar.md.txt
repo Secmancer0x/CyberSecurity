@@ -1,0 +1,11 @@
+Eğer istersen, aşağıdaki sıraya göre birlikte geliştirmeye devam edebiliriz:
+
+Logs/ klasöründeki ilk log analizini dökümante edelim
+
+SIEM-Rules/ içinde bir .yml dosyasına örnek kural + açıklama yazalım
+
+CaseStudies/ için örnek bir vaka: PowerShell exploit + IOC
+
+Tools/ için bir basit script: örn. IP geolocation + log tail filter
+
+Screenshots/ klasörüne ekran görüntüsü dökümantasyonu

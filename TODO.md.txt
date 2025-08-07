@@ -1,0 +1,6 @@
+# TODO
+
+- [ ] PCAP analizleri için örnek senaryo (DNS tunneling)
+- [ ] MITRE T1059 için vaka çalışması
+- [ ] ELK Dashboard JSON export’u ekle
+- [ ] Sigma kuralı: Suspicious PowerShell Activity

@@ -1,0 +1,6 @@
+# Changelog
+
+## [2025-06-12]
+- README.md ilk versiyon tamamlandı.
+- Log klasörüne Apache ve auth.log eklendi.
+- İlk Sigma kuralı yazıldı (apache-bruteforce-detect.yml)
